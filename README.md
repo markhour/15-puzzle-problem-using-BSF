@@ -1,1 +1,0 @@
-# 15-puzzle-problem-using-BSF
